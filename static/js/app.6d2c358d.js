@@ -6559,7 +6559,7 @@
 				xt = {
 					class: "font-extrabold"
 				},
-				Ft = Object(a["i"])(" 版权所有 "),
+				Ft = Object(a["i"])(" 版权所有. "),
 				Bt = Object(a["i"])(" 本站基于 "),
 				Lt = Object(a["j"])("a", {
 					href: "https://hexo.io/"
@@ -6619,7 +6619,7 @@
 					style: e.gradientBackground
 				}, [Object(a["j"])("span", kt, [Object(a["j"])("div", wt, [Object(a["j"])("div", yt,
 					[Object(a["j"])("ul", Mt, [Object(a["j"])("li", null, [
-							Object(a["i"])(" Copyright © 2019 - " +
+							Object(a["i"])(" Copyright © " +
 								Object(a["M"])(e.currentYear) + " ",
 								1), Object(a["j"])("b", xt, Object(
 								a["M"])(e.themeConfig.site
